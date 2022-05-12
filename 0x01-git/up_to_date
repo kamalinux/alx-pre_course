@@ -7,6 +7,7 @@ git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/alx-pre_cours
 git add . // Snapshots the file in preparation for versioning
 git commit -m 'Your comment' // Records file snapshots permanently in version history
 git push // Uploads all local branch commits to GitHub
+git pull // Updates your current local working branch with all new commits from the corresponding remote branch on GitHub. git pull is a combination of git fetch and git merge
 ```
 
 ## Creates a new branch (update_script)
