@@ -1,0 +1,20 @@
+## Clone your repository
+
+git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/alx-pre_course.git
+
+
+```
+git add . // Snapshots the file in preparation for versioning
+git commit -m 'Your comment' // Records file snapshots permanently in version history
+git push // Uploads all local branch commits to GitHub
+```
+
+## Creates a new branch (update_script)
+```
+git branch update_script
+```
+
+## Switches to the specified branch (master) and updates the working directory
+```
+git checkout master
+```
